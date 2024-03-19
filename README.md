@@ -1,2 +1,2 @@
 Meu trabalho 
-https://github.com/JeffersonEGS/cafeteria/
+https://JeffersonEGS.github.io/cafeteria/
